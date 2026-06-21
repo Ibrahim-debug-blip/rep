@@ -110,8 +110,8 @@ div
     border: solid 5px white;
 }
 .shake-text {
-  display: inline-block; /* Required for the transform animation to work */
-  animation: shakeEffect 0.5s infinite; /* Runs continuously */
+  display: inline-block; 
+  animation: shakeEffect 0.5s infinite; 
 }
 
 @keyframes shakeEffect {
@@ -178,28 +178,26 @@ div
 }
 
 
-@media (max-width: 600px) { /* if screen is 600px or smaller */
+@media (max-width: 600px) 
     .flex-container {
-        flex-direction: column; /* change flex-direction of flex-container to column */
+        flex-direction: column; 
     }
 }
 .social-container {
-    display: flex;            /* Horizontal row layout */
-    flex-direction: row;      /* Left-to-right alignment */
-    justify-content: center;   /* Centers the icons on the page */
-    gap: 30px;                /* Perfect spacing between icons */
-    margin-top: 25px;         /* Separation from elements above */
+    display: flex;           
+    flex-direction: row;      
+    justify-content: center;   
+    gap: 30px;                
+    margin-top: 25px;         
 }
 
 .social-icon {
-    color: #ffffff;           /* Keeps the icons clean white */
-    font-size: 35px;          /* Clean, easily readable icon sizes */
-    text-decoration: none;    /* Removes any underlines */
+    color: #ffffff;          
+    font-size: 35px;          
+    text-decoration: none;    
     transition: transform 0.2s, color 0.2s;
-}
 
-/* Hover effects when you point to them */
 .social-icon:hover {
-    transform: scale(1.15);   /* Mild zoom effect */
-    color: #ff4500;           /* Highlights orange on hover to match your background */
+    transform: scale(1.15);   
+    color: #ff4500;           
 }
