@@ -12,7 +12,7 @@ This repository contains a multi-page static website designed to educate users o
 
 The goal of this project is to present clean, accessible, and structured historical data using modern HTML best practices.
 
-## 📂 Repository Structure
+## Repository Structure
  index.html               # Homepage / Introduction to the movements
  shahwaliullah.html      # Biography and works of Shah Waliullah
  Barelvi.html          # History of the Mujahideen Movement
@@ -20,10 +20,10 @@ The goal of this project is to present clean, accessible, and structured histori
  sum.html     #conclusion of topics/my  opinion
  ref.html     #refrences and links to my social media
  README.md                # Documentation (this file)
-## 🛠️ Getting Started / Deployment
+## Getting Started / Deployment
 
 
-## 📚 Topics Covered per Reformer
+##  Topics Covered per Reformer
 
 ### 1. Shah Waliullah (1703–1762)
 *   Translation of the Holy Quran into Persian.
