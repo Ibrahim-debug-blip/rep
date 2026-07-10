@@ -20,7 +20,7 @@ The goal of this project is to present clean, accessible, and structured histori
  sum.html     #conclusion of topics/my  opinion
  ref.html     #refrences and links to my social media
  README.md                # Documentation (this file)
-## Getting Started / Deployment
+
 
 
 ##  Topics Covered per Reformer
